@@ -1,0 +1,10 @@
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.pytest-tmp*/
+.venv/
+node_modules/
+frontend/dist/
+frontend/playwright-report/
+frontend/test-results/
+.e2e-db.json
